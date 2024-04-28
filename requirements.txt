@@ -18,3 +18,5 @@ langchain-groq
 wikipedia
 arxiv
 langchainhub
+langchain
+streamlit

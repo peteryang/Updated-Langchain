@@ -21,3 +21,4 @@ langchainhub
 langchain
 streamlit
 ipykernel
+pysqlite3-binary

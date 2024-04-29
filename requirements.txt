@@ -22,3 +22,5 @@ langchain
 streamlit
 ipykernel
 pysqlite3-binary
+tree_sitter
+tree_sitter_languages

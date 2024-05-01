@@ -1,0 +1,32 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - beautifulsoup4  # Available via Conda
+  - fastapi
+  - uvicorn
+  - ipykernel
+  - sse_starlette
+  - bs4
+  - faiss-cpu
+  - wikipedia
+  - pip:
+    - python-dotenv
+    - streamlit
+    - langchain_openai
+    - langchain_core
+    - langchain_community
+    - langserve
+    - pypdf
+    - chromadb
+    - groq
+    - cassio
+    - langchain-groq
+    - arxiv
+    - langchainhub
+    - langchain
+    - pysqlite3-binary
+    - tree_sitter
+    - tree_sitter_languages

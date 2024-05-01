@@ -8,7 +8,7 @@ namespace WebFormsApp
     {
         protected override void RenderContents(HtmlTextWriter writer)
         {
-            writer.Write("Hello, this is a custom WebControl for .NET Framework WebForms.");
+            writer.Write("Hello, this is a testing message.");
         }
     }
 

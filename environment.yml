@@ -8,12 +8,12 @@ dependencies:
   - fastapi
   - uvicorn
   - ipykernel
-  - sse_starlette
   - bs4
   - faiss-cpu
   - wikipedia
+  - python-dotenv
+  - pip
   - pip:
-    - python-dotenv
     - streamlit
     - langchain_openai
     - langchain_core
@@ -30,3 +30,4 @@ dependencies:
     - pysqlite3-binary
     - tree_sitter
     - tree_sitter_languages
+    - sse_starlette

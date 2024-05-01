@@ -1,7 +1,7 @@
 using System;
 using Microsoft.Data.SqlClient;
 
-namespace AspNetCoreApp
+namespace AspNetCoreApp.Services
 {
     public static class DBManagerService
     {

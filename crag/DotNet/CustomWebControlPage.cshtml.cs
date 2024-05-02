@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace AspNetCoreApp
+namespace AspNetCoreApp.Pages
 {
-    public class CustomWebControlPageModel : PageModel
+    public class CustomWebControlModel : PageModel
     {
         public void OnGet()
         {

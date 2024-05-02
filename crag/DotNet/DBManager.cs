@@ -3,7 +3,7 @@ using Microsoft.Data.SqlClient;
 
 namespace AspNetCoreApp
 {
-    public static class DBManagerService
+    class DBManager
     {
         public static void ExecuteTopTenQuery()
         {

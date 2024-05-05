@@ -24,3 +24,4 @@ ipykernel
 pysqlite3-binary
 tree_sitter
 tree_sitter_languages
+sentence_transformers

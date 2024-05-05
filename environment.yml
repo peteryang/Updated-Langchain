@@ -31,3 +31,4 @@ dependencies:
     - tree_sitter
     - tree_sitter_languages
     - sse_starlette
+    - sentence_transformers

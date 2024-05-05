@@ -16,6 +16,15 @@ GROQ_API_KEY="gsk_xxxx"
 HUGGINGFACEHUB_API_TOKEN="hf_xxxx"
 '''
 
+
+(6) Run locallama
+
+install ollama: curl -fsSL https://ollama.com/install.sh | sh
+run $ollama serve
+run $streamlit run localama.py
+
+
+
 In the `environment.yml` file used for Conda environments, there are two main sections for specifying dependencies: direct Conda dependencies and pip dependencies. Here’s a breakdown of why some packages are listed under each section:
 
 ### 1. Conda Dependencies
